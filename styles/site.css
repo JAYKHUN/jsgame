@@ -8,18 +8,16 @@ html {
 	background: #ffd9d6;
 	color: #111;
 }
+.wrapper {
+	text-align: center;
+}
 
 .wrapper a {
 	display: block;
 	margin-top: 53px;
-	text-align: center;
 }
 
 .quiz-frame {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 	max-width: 100%;
 	border: 0;
 }
