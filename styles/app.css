@@ -21,23 +21,15 @@ html {
 
 .quiz__head {
 	font-size: 20pt;
-	margin: 10px;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 .head__content {
 	padding: 5px;
 }
 
-.quiz__body {
-	margin: 10px;
-}
-
 .quiz__footer {
-	position: absolute;
-	bottom: 2%;
-	left: 50%;
-	transform: translate(-50%, 0%);
+	margin-top: 30px;
 }
 
 .button {
@@ -54,13 +46,13 @@ html {
 }
 
 .button_wrong {
-	background: red;
+	background: rgb(182, 13, 13);
 }
 
 .button_correct {
-	background: green;
+	background: rgb(40, 119, 40);
 }
 
 .button_passive {
-	background: gray;
+	background: rgb(70, 69, 69);
 }
